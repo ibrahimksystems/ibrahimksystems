@@ -26,5 +26,5 @@ Specializing in high-performance web extraction pipelines, API reverse engineeri
 ### 📬 Direct B2B Contact
 
 * **GitHub:** [github.com/ibrahimksystems](https://github.com/ibrahimksystems)
-* **LinkedIn:** [Ibrahim K. on LinkedIn](https://www.linkedin.com)
+* **LinkedIn:** [Ibrahim K. on LinkedIn](https://www.linkedin.com/in/ibrahimksystems)
 * **Email:** `ibrahimksystem@duck.com`

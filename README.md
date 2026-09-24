@@ -97,9 +97,9 @@ Production-oriented Python architecture for structured data extraction from mode
 
 ---
 
-## 🏢 MSIAI
+## 🏢 IbrahimK. Systems.
 
-**MSIAI** is an engineering-focused technology brand developing intelligent digital systems across:
+**IbrahimK. Systems.** is an engineering-focused technology brand developing intelligent digital systems across:
 
 - AI Automation
 - AI Agents

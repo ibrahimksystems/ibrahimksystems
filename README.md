@@ -1,133 +1,47 @@
 # Ibrahim K.
 
-### Founder & AI Automation Engineer at IbrahimK. Systems.
+**Data Engineering & Anti-Bot Scraping Specialist**
 
-I build intelligent digital systems that connect **AI, automation, data, APIs, cybersecurity, and backend engineering** into practical production workflows.
-
-My work focuses on engineering reliable systems for complex technical and business problems — from AI-powered automation and data pipelines to secure APIs, backend infrastructure, and specialized software.
+I build production-grade Python pipelines that extract, clean, and structure data from sources that block everyone else. My data becomes the fuel for your AI.
 
 ---
 
-## 🚀 Core Engineering
+## 🔧 What I Do
 
-### AI & Automation
-- AI agents and intelligent workflows
-- Business process automation
-- Workflow orchestration
-- AI-powered integrations
-- Automation infrastructure
-
-### Data Engineering
-- ETL / ELT pipelines
-- Data extraction and transformation
-- High-performance data processing
-- API-driven data systems
-- PostgreSQL and MongoDB
-- Data validation and structured pipelines
-
-### Backend & Software Engineering
-- Python
-- FastAPI
-- REST APIs
-- Async Python
-- Backend architecture
-- Custom software development
-- Database-driven applications
-
-### Cybersecurity
-- Application security
-- API security
-- Security automation
-- Vulnerability assessment
-- Authorized penetration testing
-- Reverse engineering
-- Technical security research
+| Service | Price Range | Timeline |
+|---------|-------------|----------|
+| Web Scraping (simple) | $250 – $5,000 | 1-3 days |
+| Anti-Bot / Stealth Scraping | $1,500 – $5,000 | 3-7 days |
+| Data Pipeline (ETL) | $3,000 – $15,000 | 2-4 weeks |
+| Ongoing Data Monitoring | $500 – $3,000/mo | Continuous |
+| "Data → AI" Bridge | $5,000 – $15,000 | 2-4 weeks |
 
 ---
 
-## 🧰 Technology
+## 🛠 Tech Stack
 
-**Languages**
-
-Python
-
-**AI & Automation**
-
-AI Agents • AI Automation • Workflow Automation • Asyncio
-
-**Backend**
-
-FastAPI • REST APIs • Pydantic
-
-**Data**
-
-ETL • Data Pipelines • PostgreSQL • MongoDB • Data Extraction
-
-**Automation & Browser Engineering**
-
-Playwright • Selenium
-
-**Infrastructure**
-
-Docker • Git • CI/CD
-
-**Security**
-
-Application Security • API Security • Security Automation • Reverse Engineering
+Python 3.11+ | FastAPI | Playwright | Camoufox | Scrapy PostgreSQL | Docker | Pydantic v2 | LLM (local) | Nginx
 
 ---
 
-## 📌 Featured Engineering
+## 📦 Projects
 
-### Enterprise Anti-Bot Stealth Scraper & Data Pipeline
+### [Anti-Bot Stealth Scraper](https://github.com/ibrahimksystems/anti-bot-stealth-scraper)
+Production-grade async Python data extraction and ETL pipeline. Bypasses Cloudflare, Akamai, and rate-limits with 99.8%+ uptime.
 
-Production-oriented Python architecture for structured data extraction from modern web applications.
-
-**Engineering focus:**
-
-- Async Python architecture
-- Playwright / Camoufox
-- Pydantic v2 schema validation
-- ETL pipeline design
-- JSON / CSV structured output
-- Resilient retry and rate-limit handling
-- Automated testing with pytest-asyncio
-
-🔗 [View repository](https://github.com/ibrahimksystems/anti-bot-stealth-scraper)
+### [IbrahimK Systems Website](https://github.com/ibrahimksystems/web)
+Portfolio & services page. TypeScript / Next.js.
 
 ---
 
-## 🏢 IbrahimK. Systems.
+## 📩 Get a Quote
 
-**IbrahimK. Systems.** is an engineering-focused technology brand developing intelligent digital systems across:
-
-- AI Automation
-- AI Agents
-- Data Engineering
-- Cybersecurity
-- Backend Engineering
-- Custom Software
-- Technical Research
-
-The goal is simple:
-
-> Build reliable, maintainable and security-conscious digital systems that solve real technical and business problems.
+I work best in writing. Email me at **ibrahimksystems@duck.com** with your project details. I'll reply with a fixed-scope proposal within 24 hours. No obligation.
 
 ---
 
-## 🔗 Connect
+## 🔗 Links
 
-- **LinkedIn:** [Ibrahim K.](https://www.linkedin.com/in/ibrahimksystems/)
-- **GitHub:** [@ibrahimksystems](https://github.com/ibrahimksystems)
-
----
-
-### Engineering Philosophy
-
-I focus on **practical engineering over unnecessary complexity**.
-
-Design the architecture.
-Automate the workflow.
-Validate the data.
-Secure the system.
-Ship the solution.
+- **LinkedIn:** [linkedin.com/in/ibrahimksystems](https://www.linkedin.com/in/ibrahimksystems)
+- **Contra:** [contra.com/ibrahimksystems](https://contra.com/ibrahimksystems)
+- **Email:** ibrahimksystems@duck.com

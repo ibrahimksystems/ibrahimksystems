@@ -21,13 +21,13 @@ Python 3.11+ | FastAPI | Playwright | Camoufox | Scrapy | PostgreSQL | Docker | 
 ## 📦 Projects
 
 **[Anti-Bot Stealth Scraper](https://github.com/ibrahimksystems/anti-bot-stealth-scraper)**
-Production-grade async Python data extraction and ETL pipeline. Bypasses Cloudflare, Akamai, and rate-limits with 99.8%+ uptime.
-
-**[IKS Weekly Pro Update](https://github.com/ibrahimksystems/iks_weekly_pro_update)**
-Production-grade Python automation. Scrapes, cleans, structures data. FastAPI + PostgreSQL + Docker.
+Production-grade async Python data extraction and ETL pipeline. Bypasses Cloudflare, Akamai, Datadome, Turnstile. 99.8%+ uptime.
 
 **[IKS Chat](https://github.com/ibrahimksystems/iks_chat)**
 Local LLM chat desktop app. Ollama + ComfyUI + Python. No cloud dependency.
+
+**[IbrahimK. Systems Website](https://github.com/ibrahimksystems/web)**
+Portfolio & services page. TypeScript / Next.js.
 
 ## 📩 Get a Quote
 

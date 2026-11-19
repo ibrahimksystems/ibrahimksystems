@@ -26,3 +26,4 @@ Python • Playwright • Camoufox • Pydantic • FastAPI • Asyncio • Post
 
 - Website: https://ibrahimksystems.github.io
 - LinkedIn: https://www.linkedin.com/in/ibrahimksystems
+- Email: ibrahimksystems@duck.com
